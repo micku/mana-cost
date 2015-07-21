@@ -6,7 +6,7 @@ This is usefull for web applications.
 ## Usage
 Simply grab the SVG found in `images/` and the CSS found in `css/`, then start using the `.mana` class.
 
-Classes are named to reflect the mana costs of [mtgjson](http://mtgjson.com/), with only alphabetic chars.
+Classes are named to reflect the mana costs of [mtgjson](http://mtgjson.com/), with only alphanumeric chars.
 
 For example:
 
