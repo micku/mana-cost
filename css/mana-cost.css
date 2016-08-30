@@ -27,38 +27,38 @@
 .mana.s8 { background-position: 88.8% 0; }
 .mana.s9 { background-position: 99.9% 0; }
 
-.mana.s10 { background-position: 0 16.9%; }
-.mana.s11 { background-position: 11.1% 16.9%; }
-.mana.s12 { background-position: 22.2% 16.9%; }
-.mana.s13 { background-position: 33.3% 16.9%; }
-.mana.s14 { background-position: 44.4% 16.9%; }
-.mana.s15 { background-position: 55.5% 16.9%; }
-.mana.s16 { background-position: 66.6% 16.9%; }
-.mana.s17 { background-position: 77.7% 16.9%; }
-.mana.s18 { background-position: 88.8% 16.9%; }
-.mana.s19 { background-position: 99.9% 16.9%; }
+.mana.s10 { background-position: 0 16%; }
+.mana.s11 { background-position: 11.1% 16.6%; }
+.mana.s12 { background-position: 22.2% 16.6%; }
+.mana.s13 { background-position: 33.3% 16.6%; }
+.mana.s14 { background-position: 44.4% 16.6%; }
+.mana.s15 { background-position: 55.5% 16.6%; }
+.mana.s16 { background-position: 66.6% 16.6%; }
+.mana.s17 { background-position: 77.7% 16.6%; }
+.mana.s18 { background-position: 88.8% 16.6%; }
+.mana.s19 { background-position: 99.9% 16.6%; }
 
-.mana.s20 { background-position: 0 33.8%; }
-.mana.sx { background-position: 11.1% 33.8%; }
-.mana.sy { background-position: 22.2% 33.8%; }
-.mana.sz { background-position: 33.3% 33.8%; }
-.mana.sw { background-position: 44.4% 33.8%; }
-.mana.su { background-position: 55.5% 33.8%; }
-.mana.sb { background-position: 66.6% 33.8%; }
-.mana.sr { background-position: 77.7% 33.8%; }
-.mana.sg { background-position: 88.8% 33.8%; }
-.mana.ss { background-position: 99.9% 33.8%; }
+.mana.s20 { background-position: 0 33%; }
+.mana.sx { background-position: 11.1% 33.3%; }
+.mana.sy { background-position: 22.2% 33.3%; }
+.mana.sz { background-position: 33.3% 33.3%; }
+.mana.sw { background-position: 44.4% 33.3%; }
+.mana.su { background-position: 55.5% 33.3%; }
+.mana.sb { background-position: 66.6% 33.3%; }
+.mana.sr { background-position: 77.7% 33.3%; }
+.mana.sg { background-position: 88.8% 33.3%; }
+.mana.ss { background-position: 99.9% 33.3%; }
 
-.mana.swu { background-position: 0 50.7%; }
-.mana.swb { background-position: 11.1% 50.7%; }
-.mana.sub { background-position: 22.2% 50.7%; }
-.mana.sur { background-position: 33.3% 50.7%; }
-.mana.sbr { background-position: 44.4% 50.7%; }
-.mana.sbg { background-position: 55.5% 50.7%; }
-.mana.srw { background-position: 66.6% 50.7%; }
-.mana.srg { background-position: 77.7% 50.7%; }
-.mana.sgw { background-position: 88.8% 50.7%; }
-.mana.sgu { background-position: 99.9% 50.7%; }
+.mana.swu { background-position: 0 50%; }
+.mana.swb { background-position: 11.1% 50%; }
+.mana.sub { background-position: 22.2% 50%; }
+.mana.sur { background-position: 33.3% 50%; }
+.mana.sbr { background-position: 44.4% 50%; }
+.mana.sbg { background-position: 55.5% 50%; }
+.mana.srw { background-position: 66.6% 50%; }
+.mana.srg { background-position: 77.7% 50%; }
+.mana.sgw { background-position: 88.8% 50%; }
+.mana.sgu { background-position: 99.9% 50%; }
 
 .mana.s2w { background-position: 0 66.6%; }
 .mana.s2u { background-position: 11.1% 66.6%; }
@@ -71,8 +71,10 @@
 .mana.srp { background-position: 88.8% 66.6%; }
 .mana.sgp { background-position: 99.9% 66.6%; }
 
-.mana.st { background-position: 0% 83.5%; }
-.mana.sq { background-position: 11.1% 83.5%; }
+.mana.st { background-position: 0% 83.3%; }
+.mana.sq { background-position: 11.1% 83.3%; }
+
+.mana.scl { background-position: 77.7% 83.3%; }
 
 .mana.s1000000 { background-position: 0 100%; }
 .mana.s1000000.small { width: 4.9em; }
