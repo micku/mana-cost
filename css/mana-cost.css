@@ -96,3 +96,11 @@
 .mana.shr.small { width: 0.5em; }
 .mana.shr.medium { width: 1em; }
 /*.mana.shr.large { width: 2em; }*/
+
+
+.shadow {
+    filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=-1, OffY=1, Color='#000')";
+    filter: url(#shadow);
+    -webkit-filter: drop-shadow(-1px 1px 0px #000);
+    filter: drop-shadow(-1px 1px 0px #000);
+}

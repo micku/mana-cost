@@ -344,4 +344,14 @@
   <title>background</title>
   <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
  </g>
-</svg>
+ <filter id="shadow">
+     <feGaussianBlur in="SourceAlpha" stdDeviation="2.2"/>
+     <feOffset dx="-1" dy="1" result="offsetblur"/>
+     <feFlood flood-color="rgba(0,0,0,1)"/>
+     <feComposite in2="offsetblur" operator="in"/>
+     <feMerge>
+         <feMergeNode/>
+         <feMergeNode in="SourceGraphic"/>
+     </feMerge>
+ </filter>
+ </svg>
