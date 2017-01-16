@@ -74,7 +74,7 @@
 .mana.st { background-position: 0% 83.3%; }
 .mana.sq { background-position: 11.1% 83.3%; }
 
-.mana.scl { background-position: 77.7% 83.3%; }
+.mana.sc { background-position: 77.7% 83.3%; }
 
 .mana.se { background-position: 88.8% 83.3%; }
 
@@ -86,9 +86,9 @@
 .mana.s100.small { width: 1.8em; }
 .mana.s100.medium { width: 3.7em; }
 /*.mana.s100.large { width: 10.8em; }*/
-.mana.sc { background-position: 76.5% 100%; }
-.mana.sc.small { width: 1.2; }
-.mana.sc.medium { width: 2.3em; }
+.mana.schaos { background-position: 76.5% 100%; }
+.mana.schaos.small { width: 1.2; }
+.mana.schaos.medium { width: 2.3em; }
 /*.mana.sc.large { width: 4.6em; }*/
 .mana.shw { background-position: 83.5% 100%; }
 .mana.shw.small { width: 0.5em; }
